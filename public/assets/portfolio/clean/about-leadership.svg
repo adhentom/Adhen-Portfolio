@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Clean community leadership illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fdff"/><stop offset="1" stop-color="#e9fbff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#0b6cae" flood-opacity=".15"/></filter>
+  </defs>
+  <rect width="800" height="360" fill="url(#bg)"/>
+  <g opacity=".25" stroke="#7fc8f2" stroke-width="3"><path d="M400 156 220 230M400 156l180 74M400 156V70"/></g>
+  <g filter="url(#shadow)">
+    <circle cx="400" cy="156" r="58" fill="#0c70e5"/>
+    <circle cx="220" cy="230" r="42" fill="#fff"/>
+    <circle cx="580" cy="230" r="42" fill="#fff"/>
+    <circle cx="400" cy="70" r="42" fill="#fff"/>
+    <path d="M371 157c18-31 55-31 73 0M382 132a18 18 0 1 0 36 0" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+    <path d="M200 231c13-20 27-20 40 0M210 213a10 10 0 1 0 20 0M560 231c13-20 27-20 40 0M570 213a10 10 0 1 0 20 0M380 71c13-20 27-20 40 0M390 53a10 10 0 1 0 20 0" stroke="#0c70e5" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>

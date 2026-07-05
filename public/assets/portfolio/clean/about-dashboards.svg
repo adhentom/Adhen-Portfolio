@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Clean analytics dashboard illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fcff"/><stop offset="1" stop-color="#eef8ff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#0b4f8a" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="800" height="360" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="126" y="78" width="548" height="216" rx="30" fill="#fff"/>
+    <path d="M170 235C220 170 250 210 294 154s82-2 126-52 76 12 112-20" fill="none" stroke="#0c70e5" stroke-width="10" stroke-linecap="round"/>
+    <rect x="500" y="130" width="28" height="94" rx="10" fill="#c7ebff"/>
+    <rect x="544" y="98" width="28" height="126" rx="10" fill="#73c8ff"/>
+    <rect x="588" y="156" width="28" height="68" rx="10" fill="#0c70e5"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" role="img" aria-label="Clean isometric workflow grid">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#edf7ff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#0c2744" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1400" height="820" fill="none"/>
+  <g opacity=".75" filter="url(#shadow)">
+    <g transform="translate(230 120) rotate(45)">
+      <rect x="0" y="0" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="134" y="0" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="268" y="0" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="402" y="0" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="0" y="134" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="134" y="134" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="268" y="134" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="402" y="134" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="0" y="268" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="134" y="268" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="268" y="268" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+      <rect x="402" y="268" width="112" height="112" rx="18" fill="url(#tile)" stroke="#d7e6f2"/>
+    </g>
+  </g>
+</svg>

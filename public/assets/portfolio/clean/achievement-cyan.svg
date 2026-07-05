@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 447" role="img" aria-label="Blue achievement card skin">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#35d5ff"/><stop offset="1" stop-color="#0c70e5"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-opacity=".16"/></filter></defs>
+  <rect x="6" y="6" width="344" height="435" rx="18" fill="url(#g)" filter="url(#s)"/>
+  <path d="M36 42h284v282l-64-40-78 52-78-52-64 40Z" fill="#dff7ff" opacity=".75" stroke="#2ab6ec" stroke-width="2" stroke-dasharray="7 7"/>
+  <text x="178" y="115" text-anchor="middle" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#0c9fd8" opacity=".65">“</text>
+</svg>

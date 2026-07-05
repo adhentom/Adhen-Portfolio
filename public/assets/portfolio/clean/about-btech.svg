@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Clean education dashboard illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8fcff"/>
+      <stop offset="1" stop-color="#dff3ff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39b9ff"/>
+      <stop offset="1" stop-color="#0c70e5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0a4f9f" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="800" height="360" fill="url(#bg)"/>
+  <g opacity=".34" stroke="#8ac7f4" stroke-width="1">
+    <path d="M0 80h800M0 160h800M0 240h800M0 320h800M80 0v360M160 0v360M240 0v360M320 0v360M400 0v360M480 0v360M560 0v360M640 0v360M720 0v360"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="165" y="82" width="470" height="210" rx="28" fill="#fff" opacity=".92"/>
+    <rect x="198" y="118" width="150" height="26" rx="13" fill="#dff0ff"/>
+    <rect x="198" y="162" width="238" height="18" rx="9" fill="#b8ddfb"/>
+    <rect x="198" y="196" width="318" height="18" rx="9" fill="#d8ecfb"/>
+    <rect x="198" y="230" width="190" height="18" rx="9" fill="#d8ecfb"/>
+    <rect x="475" y="124" width="104" height="104" rx="24" fill="url(#blue)"/>
+    <path d="M518 150h18v52h-18zM501 168h18v34h-18zM535 180h18v22h-18z" fill="#fff" opacity=".94"/>
+  </g>
+</svg>

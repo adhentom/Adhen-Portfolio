@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Clean AI workflow illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fdff"/><stop offset="1" stop-color="#e5fbff"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2be7d0"/><stop offset="1" stop-color="#0c70e5"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#0b6cae" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="800" height="360" fill="url(#bg)"/>
+  <g opacity=".25" stroke="#8ac7f4"><path d="M80 250C180 120 278 118 390 210s216 73 330-84" fill="none" stroke-width="3"/><path d="M80 284h640" stroke-dasharray="10 12"/></g>
+  <g filter="url(#shadow)">
+    <rect x="110" y="92" width="150" height="126" rx="24" fill="#fff"/>
+    <rect x="325" y="72" width="150" height="154" rx="30" fill="#fff"/>
+    <rect x="540" y="112" width="150" height="116" rx="24" fill="#fff"/>
+    <circle cx="185" cy="154" r="42" fill="url(#accent)"/>
+    <path d="M170 160c20-38 51-37 31 2-15 30-45 30-31-2Z" fill="#fff" opacity=".92"/>
+    <path d="M400 114v68M366 148h68M376 124l48 48M424 124l-48 48" stroke="#0c70e5" stroke-width="13" stroke-linecap="round"/>
+    <path d="M580 166h70M580 142h38M580 190h52" stroke="#0c70e5" stroke-width="16" stroke-linecap="round"/>
+  </g>
+</svg>

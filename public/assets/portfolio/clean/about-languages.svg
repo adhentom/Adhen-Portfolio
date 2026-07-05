@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Clean programming languages illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9fdff"/><stop offset="1" stop-color="#eef7ff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#09284e" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="800" height="360" fill="url(#bg)"/>
+  <g opacity=".24" stroke="#b2d8f3"><path d="M0 90h800M0 180h800M0 270h800M100 0v360M200 0v360M300 0v360M400 0v360M500 0v360M600 0v360M700 0v360"/></g>
+  <g filter="url(#shadow)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="800">
+    <rect x="132" y="88" width="536" height="196" rx="30" fill="#fff" opacity=".94"/>
+    <text x="180" y="150" font-size="34" fill="#0c70e5">Python</text>
+    <text x="180" y="207" font-size="34" fill="#172033">Java</text>
+    <text x="373" y="207" font-size="34" fill="#172033">C</text>
+    <text x="472" y="207" font-size="34" fill="#0c70e5">SQL</text>
+    <path d="M180 236h440" stroke="#d4e7f7" stroke-width="12" stroke-linecap="round"/>
+    <path d="M180 236h225" stroke="#0c70e5" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
